@@ -30,5 +30,5 @@ def main():
     print("Kilometerstand des dritten Autos:", auto_drei.kilometerstand)
     print("wir haben Spaß!")
 
-
+    print("Junge, Junge")
 main()
