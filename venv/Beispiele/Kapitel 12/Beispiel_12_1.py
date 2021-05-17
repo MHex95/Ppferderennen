@@ -22,7 +22,7 @@ def main():
     auto_zwei.strecke_fahren(128)
 
     print("Kilometerstand des ersten Autos:", auto_eins.kilometerstand)
-    print("Kilometerstand des zweiten Autos:", auto_zwei.kilometerstand)
+    print("wir haben Spaß!")
 
 
 main()
