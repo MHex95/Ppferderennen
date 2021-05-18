@@ -6,7 +6,7 @@ import Auto
 
 
 def main():
-    # Hauptprogramm
+    # Hauptprogrammd
     auto_eins = Auto.Auto("Kia", "Silber", 50, 3)
     auto_zwei = Auto.Auto("Bentley", "Weiß", 150, 5)
     auto_drei = Auto.Auto("Fiat", "Rot", 120, 3)
@@ -29,7 +29,6 @@ def main():
     print("Kilometerstand des ersten Autos:", auto_eins.kilometerstand)
     print("Kilometerstand des dritten Autos:", auto_drei.kilometerstand)
     print("wir haben Spaß!")
-
-    print("Junge, Junge")
-    print("Rest des Features")
+    print("asef")
+    print("so ist es besser!!")
 main()
